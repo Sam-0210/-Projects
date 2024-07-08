@@ -1,1 +1,1 @@
-# -Projects
+Welcome to my GitHub repository showcasing my portfolio projects in data analysis. Here, you'll find a collection of projects that I have completed individually, demonstrating my skills in SQL, Excel, and Power BI. Each project includes detailed analysis, findings, and recommendations based on real-world datasets. Explore the projects to see how I leverage data to uncover insights and drive decision-making.
